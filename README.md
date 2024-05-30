@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi 👋, I'm David, an Android Developer.
+## Languages: Kotlin and Java.
+
+- 🔭 I’m currently working on PayBuddy, an utility payment mobile app.
+- 🌱 I’m currently learning Jetpack Compose, Kotlin Multiplatform (KMP) and Blockchain Development with Solidity.
+- 📫 How to reach me: ezekieldavid036@gmail.com
+- 👯 I’m looking to collaborate on FinTech, Blockchain, Healthcare, and News and Entertainment projects. 
 
 <!--
 **CreativeHazio/CreativeHazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
