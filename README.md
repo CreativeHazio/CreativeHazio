@@ -1,4 +1,4 @@
-# David Ezekiel — Android Engineer (Kotlin, Jetpack Compose, KMP)
+# David Ezekiel - Android Engineer (Kotlin, Jetpack Compose, KMP)
 
 Hi, I’m David. I build fast, secure, and smooth mobile apps with Kotlin, Jetpack Compose, and modern Android architecture. I’ve shipped production apps in FinTech, utilities, productivity, and security, with a strong focus on performance, clean architecture, and great UX.
 
