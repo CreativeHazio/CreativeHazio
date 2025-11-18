@@ -25,8 +25,8 @@ Hi, I’m David. I build fast, secure, and smooth mobile apps with Kotlin, Jetpa
 - Performance optimization and offline-first design
 
 ## 📫 Contact
-Email: ezekieldavid036@gmail.com
-Location: Remote (Nigeria)
+- Email: ezekieldavid036@gmail.com
+- Location: Remote (Nigeria)
 
 <!--
 **CreativeHazio/CreativeHazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
